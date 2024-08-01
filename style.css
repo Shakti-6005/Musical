@@ -1,0 +1,156 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #00085A;
+   
+}
+
+header {
+    background-color: #00085A;
+    padding: 20px;
+}
+
+.button_know{
+    background-color: black;
+    border-radius: 10px;
+
+}
+
+.logo{
+    font-size: 30px;
+}
+
+a{
+    color: white;
+    margin-left: 50px;
+    padding-left: 80;
+}
+
+.guitar-section {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.guitar-section img {
+    width: 500px;
+    height: auto;
+}
+
+.guarantee {
+    background-color: #00085A;
+    padding: 20px;
+    margin: 20px 0;
+    display: flex;
+    
+}
+
+.review {
+    background-color: #00085A;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #00085A;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #00085A;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #00085A;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+section {
+    /* padding: 20px; */
+    text-align: center;
+}
+
+.product {
+    background-color: #00085A;
+}
+
+.guarantee {
+    background-color: #00085A;
+}
+
+.testimonials {
+    background-color: #00085A;
+}
+
+.testimonial {
+    background-color: #00085A;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.costumer {
+  height: 100px;
+  width: auto;
+}
+
+.guitar_section{
+    display: flex-col;
+  
+}
+
+.boldtext{
+    font-size: 36px;
+    line-height: 30px;
+}
+
+.side_button{
+    background-color: rgb(201, 188, 188);
+    color: black;
+    border-radius: 20%;
+ 
+    
+    
+}
+.side_button:hover{
+    background-color:rgb(125, 116, 156);;
+    color:white;
+    border-radius: 20%;
+   
+    
+}
+
+.section_img{
+    height: 250px;
+    width: auto;
+}
+
+.views img{
+    height: 350px;
+    width: auto;
+    filter: blur(5px);
+}
+      
+
+.customers{
+    display: flex;
+}
+
+.customer{
+    padding:10px;
+   
+}
